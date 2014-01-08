@@ -1,3 +1,4 @@
+#comment
 #!/bin/bash
 pwd=/Users/Matt/Desktop/edd
 
